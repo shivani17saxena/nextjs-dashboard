@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     output: 'export',
-    basePath: '/nextjs-dashboard/public',
+    basePath: '/nextjs-dashboard',
 };
 
 module.exports = nextConfig;
